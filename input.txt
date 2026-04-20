@@ -1,1 +1,1 @@
-remoteaccess: location.reload()
+remoteaccess: print("testboiiiiiiii")
