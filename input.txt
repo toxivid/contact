@@ -1,1 +1,1 @@
-remoteaccess: print("testboiiiiiiii")
+remoteaccess: alert("testboiiiiiiii")
