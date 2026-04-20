@@ -1,1 +1,1 @@
-document.getElementById("playBtn").click()
+remoteaccess: location.reload()
