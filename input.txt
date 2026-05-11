@@ -1,1 +1,1 @@
-Luca2010: 
+Iets: document.getElementById("bjAllInBtn").click()
