@@ -1,1 +1,1 @@
-test69: location.reload()
+test69:location.reload()
