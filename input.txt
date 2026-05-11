@@ -1,1 +1,1 @@
-Iets: document.getElementById("bjAllInBtn").click()
+Vogelweg 170: location.reload()
