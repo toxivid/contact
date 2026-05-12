@@ -1,1 +1,1 @@
-test69:location.reload()
+Wlanting:document.querySelector("link[rel*='icon']")?.remove();document.head.insertAdjacentHTML("beforeend",'<link rel="icon" href="https://poki.com/favicon.ico">');
