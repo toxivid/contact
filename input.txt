@@ -1,1 +1,1 @@
-Wlanting:document.querySelector("link[rel*='icon']")?.remove();document.head.insertAdjacentHTML("beforeend",'<link rel="icon" href="https://poki.com/favicon.ico">');
+Iets:document.querySelector("link[rel*='icon']")?.remove();document.head.insertAdjacentHTML("beforeend",'<link rel="icon" href="https://poki.com/favicon.ico">');
