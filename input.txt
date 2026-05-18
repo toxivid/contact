@@ -1,1 +1,1 @@
-asddfa:localstorage.reload()
+asddfa:location.reload()
