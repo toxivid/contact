@@ -1,1 +1,1 @@
-Gooner lanting:location.reload();
+toxivid:localStorage.clear();location.reload()
