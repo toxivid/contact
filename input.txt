@@ -1,1 +1,1 @@
-HaroldK0ster: localStorage.clear()
+HaroldK0ster: localStorage.clear(); location.reload()
