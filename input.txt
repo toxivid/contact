@@ -1,1 +1,1 @@
-snigger: localStorage.clear();location.reload()
+aaaaaa:G.score = 696996966
