@@ -1,1 +1,1 @@
-goatcr7:TITLE_DEFS[2].cost = 1;ICON_DEFS[2].cost = 1
+maak Jan arentsz joods:G.unlockedRolls = true
